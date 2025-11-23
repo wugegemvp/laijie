@@ -1,0 +1,5 @@
+{
+  "name": "Bar Tab Tracker",
+  "description": "A social tracking application for monitoring owed drinks, repayment progress, and debt statistics among friends.",
+  "requestFramePermissions": []
+}
